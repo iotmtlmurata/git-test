@@ -1,3 +1,2 @@
 print('KSN')
 
-print('xxxxxxxxxxxxxx')
